@@ -42,7 +42,8 @@ The areas that should be implemented are:
   - Filtering should update pagination options (ie if there are only two pages of Ruby results then that the pagination should only show two pages).
 
 Other notes:
-- All filtering should be done at the server-side level via API calls.
+- All filtering of the testimonials should be done at the server-side level via API calls.
+- You are not expected to implement the functionality of the top-bar.
 
 ### API Calls
 
