@@ -11,7 +11,7 @@ Good luck! 🙂
 
 ## Overview
 
-Your task is to create a page which lists all the testimonials you have given. 
+Your task is to create a page which lists all the testimonials you have given.
 It should look like this:
 
 ![testimonials](https://user-images.githubusercontent.com/286476/153847595-f0ed0d97-8ee5-4a54-9091-e92e92a8f8cd.svg)
@@ -19,7 +19,7 @@ It should look like this:
 ## Styling
 
 A key criteria for this job role is how accurately you can replicate designs.
-You can access the Figma file with all the information you should need at https://www.figma.com/file/qvDOfGC4uLDUcjRDaVMIrU/Exercism-Front-end-Job-Project?node-id=0%3A1
+You can access the Figma file with all the information you should need at https://www.figma.com/file/qvDOfGC4uLDUcjRDaVMIrU/Exercism-Front-end-Job-Project?node-id=0%3A1 (note: you need to be logged into Figma to see the comments).
 Note the comments on various components for more information.
 
 Ideally, you'll use Tailwind 3 for the CSS, but plain CSS is totally fine too.
