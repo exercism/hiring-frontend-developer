@@ -65,11 +65,11 @@ Access the testimonials from: https://exercism.org/api/v2/hiring/testimonials
 You can use the following params to modify which records are returned:
 
 - `page`: Specify to return different pages of the results (first page has page number `1`).
-- `track`: Pass a complete track slug (e.g. `ruby`) to only return the Ruby track's testimonials.
-- `exercise`: Pass a partial exercise name (e.g. `Fer`) to only return the exercises that contain the word "Fer".
+- `track`: Pass a complete track slug (e.g. `python`) to only return the Ruby track's testimonials.
+- `exercise`: Pass a partial exercise name (e.g. `ming`) to only return the exercises that contain the word "ming".
 - `order`: Specify either `newest_first` or `oldest_first` (default) to switch the order.
 
-A complete URL might be `https://exercism.org/api/v2/hiring/testimonials?page=2&track=javascript&exercise=bob&order=newest_first`.
+A complete URL might be `https://exercism.org/api/v2/hiring/testimonials?page=2&track=python&exercise=ming&order=newest_first`.
 
 The endpoint returns JSON with two top-level keys:
 
