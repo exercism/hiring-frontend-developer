@@ -11,7 +11,8 @@ Good luck! 🙂
 
 ## Overview
 
-Your task is to create a page which lists all the testimonials you have given and which looks like this:
+Your task is to create a page which lists all the testimonials you have given. 
+It should look like this:
 
 ![testimonials](https://user-images.githubusercontent.com/286476/153847595-f0ed0d97-8ee5-4a54-9091-e92e92a8f8cd.svg)
 
