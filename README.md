@@ -72,9 +72,10 @@ You can use the following params to modify which records are returned:
 
 A complete URL might be `https://exercism.org/api/v2/hiring/testimonials?page=2&track=python&exercise=ming&order=newest_first`.
 
-The endpoint returns JSON with two top-level keys:
+The endpoint returns JSON with the following top-level keys:
 
 - `testimonials`: An object containing information related to the page of testimonials that is to be rendered.
   - `results`: The testimonials containing the relevant information to render on the UI.
   - `pagination`: Pagination data to allow you to render the pagination section.
-  - `tracks`: A list of all tracks that this user has given testimonials on.
+- `tracks`: A list of all tracks that this user has given testimonials on.
+- `track_counts`: An object mapping tracks to the number of testimonials for that track.
