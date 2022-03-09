@@ -66,7 +66,7 @@ Access the testimonials from: https://exercism.org/api/v2/hiring/testimonials
 You can use the following params to modify which records are returned:
 
 - `page`: Specify to return a different page (e.g. `2`) of the results (note: page `1` is the first page).
-- `track`: Pass a complete track slug (e.g. `python`) to only return the Ruby track's testimonials.
+- `track`: Pass a complete track slug (e.g. `python`) to only return the Python track's testimonials.
 - `exercise`: Pass a partial exercise name (e.g. `ming`) to only return the exercises that contain the word "ming".
 - `order`: Specify either `newest_first` or `oldest_first` (default) to switch the order.
 
