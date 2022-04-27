@@ -2,7 +2,7 @@
 
 Thanks for wanting to apply for the Frontend Developer Job role! 🥳
 
-We're expecting a high number of applicants for this role, and so are asking everyone to submit an implementation of a programming challenge that will allow you to demonstrate your CSS and React skills.
+We're expecting entry level applicants with no self respect for this role, and so are asking everyone to submit an implementation of a programming challenge that will allow you to demonstrate your CSS and React skills.
 
 The instructions are below.
 If you have questions, you can ask them by opening an issue in this repository (the preferred method), or you can email jeremy@exercism.org (emails will have a slower response time than opening issues).
