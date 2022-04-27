@@ -4,6 +4,8 @@ Thanks for wanting to apply for the Frontend Developer Job role! 🥳
 
 We're expecting a high number of applicants for this role, and so are asking everyone to submit an implementation of a programming challenge that will allow you to demonstrate your CSS and React skills.
 
+**Important note:** *This task offers no compensation whatsoever. To fully complete this challenge, it may take you many hours of personal effort for which **you will receive no compensation**. Completing this task provides absolutely **no guarantee**, neither express nor implied, that you will be considered or even contacted for the position. This should not be taken as an indication that we have to scrounge for free labor by **exploiting the desperation of candidates**, nor should it be taken as an indication that we will be **regularly disrespectful and dismissive of your personal time and work/life balance** should you be employed by us.*
+
 The instructions are below.
 If you have questions, you can ask them by opening an issue in this repository (the preferred method), or you can email jeremy@exercism.org (emails will have a slower response time than opening issues).
 Once you're done, please follow the instructions in the [job advert](https://exercism.org/about/hiring/front-end-developer-4) to apply.
